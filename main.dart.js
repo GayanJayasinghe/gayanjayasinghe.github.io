@@ -63751,7 +63751,7 @@ break
 case 3:p=o.c
 s=6
 return A.X($.acV().a.jK("name,email,picture.width(200)"),$async$oH)
-case 6:A.ka(p)
+case 6:A.ka(p==null?null:p.d)
 s=4
 break
 case 5:A.ka(n)
